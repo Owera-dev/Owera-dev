@@ -93,3 +93,7 @@ Follow Stack overflows [article](https://stackoverflow.blog/2020/03/02/best-prac
 ## Version Control branching workflow
 
 Follow [this](https://nvie.com/posts/a-successful-git-branching-model/) workflow
+
+## Git commits conventions
+
+Follow conventionalcommits for writting better commit messages. [More](https://www.conventionalcommits.org/en/v1.0.0/#specification)
